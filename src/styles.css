@@ -42,7 +42,7 @@ main {
     padding: 57px 27px;
     color: white;
     background-image: url('../src/images/backgroundicon.png');
-    background-position: right;
+    background-position: right 75%;
     background-repeat: no-repeat;
 }
 
