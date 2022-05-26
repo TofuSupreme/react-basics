@@ -41,6 +41,9 @@ nav {
 main {
     padding: 57px 27px;
     color: white;
+    background-image: url('../src/images/backgroundicon.png');
+    background-position: right;
+    background-repeat: no-repeat;
 }
 
 .main--title {
@@ -65,5 +68,7 @@ main {
 }
 
 .main-backgroundicon {
-    position:absolute;
+    background-image: url('../src/images/backgroundicon.png');
+    background-position: center;
+    background-repeat: no-repeat;
 }
